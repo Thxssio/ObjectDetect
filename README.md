@@ -45,6 +45,9 @@ sudo apt install v4l-utils -y
 ```
 sudo apt install libopencv-dev python3-opencv
 ```
+```
+pip install numpy
+```
     
     
    
