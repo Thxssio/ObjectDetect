@@ -24,21 +24,27 @@ sudo ln -sf /usr/bin/python3 /usr/bin/python
 
 `powershell` `admin`
 ```
-    winget install --interactive --exact dorssel.usbipd-win
+winget install --interactive --exact dorssel.usbipd-win
 ```
 ```
-    usbipd wsl list
+usbipd wsl list
 ```
 ```
-    usbipd wsl attach --busid <busid>
+usbipd wsl attach --busid <busid>
 ```
 `ubuntu`
 ```
-    lsusb
+lsusb
 ```
 
+Requirement:
 
-    
+```
+sudo apt install v4l-utils -y
+```
+```
+sudo apt install libopencv-dev python3-opencv
+```
     
     
    
