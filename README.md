@@ -1,12 +1,12 @@
-<h1 align="center">ObjectDetect</h1>
+<h1 align="center">Object Detect</h1>
 
 
 
 ****Object Detect with OpenCv***
 
-- [] OpenCV
-- [] Python 3.10
-- [] COCO
+- [x] OpenCV
+- [x] Python 3.10
+- [x] COCO
 
 
 ##
