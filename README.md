@@ -7,6 +7,7 @@
 - [x] OpenCV
 - [x] Python 3.10
 - [x] COCO
+- [x] Numpy
 
 
 ##
