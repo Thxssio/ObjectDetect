@@ -16,3 +16,14 @@ Python default name:
 ```
 sudo ln -sf /usr/bin/python3 /usr/bin/python
 ```
+
+⚠️ - **WSL2**
+    -Install usbipd `powershell` or `cmd`
+    ```
+    winget install --interactive --exact dorssel.usbipd-win
+    ```
+    -
+    
+    
+   
+    
