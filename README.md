@@ -29,7 +29,13 @@ sudo ln -sf /usr/bin/python3 /usr/bin/python
 ```
     usbipd wsl list
 ```
-
+```
+    usbipd wsl attach --busid <busid>
+```
+`ubuntu`
+```
+    lsusb
+```
     
     
     
