@@ -49,6 +49,9 @@ sudo apt install libopencv-dev python3-opencv
 ```
 pip install numpy
 ```
+```
+pip install opencv-python
+```
     
     
    
