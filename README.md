@@ -22,7 +22,7 @@ sudo ln -sf /usr/bin/python3 /usr/bin/python
    
 - Install usbipd `powershell`
 
-`powershell`
+`powershell` `admin`
 ```
     winget install --interactive --exact dorssel.usbipd-win
 ```
