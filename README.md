@@ -10,3 +10,9 @@
 
 
 ##
+
+Python default name:
+
+```
+sudo ln -sf /usr/bin/python3 /usr/bin/python
+```
