@@ -37,7 +37,7 @@ usbipd wsl attach --busid <busid>
 lsusb
 ```
 
-Requirement:
+Requirements:
 
 ```
 sudo apt install v4l-utils -y
