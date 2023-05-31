@@ -53,6 +53,36 @@ pip install opencv-python
 ```
 pip install imutils
 ```
+
+Test
+
+```
+python detect1.py
+```
+
+
+```
+python detect2.py
+```
+
+
+Train:
+
+- Save images
+```
+python headshots.py
+```
+
+- Train model
+
+```
+python train_model.py
+```
+- Detect Face
+
+```
+python facial_req.py
+```
     
     
    
