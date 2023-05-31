@@ -7,6 +7,7 @@
 - [x] OpenCV
 - [x] Python 3.10
 - [x] COCO
+- [x] Numpy
 
 
 ##
@@ -43,7 +44,14 @@ Requirements:
 sudo apt install v4l-utils -y
 ```
 ```
-sudo apt install libopencv-dev python3-opencv
+pip install numpy
+```
+```
+pip install opencv-python
+```
+
+```
+pip install imutils
 ```
     
     
