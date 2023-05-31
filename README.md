@@ -18,26 +18,6 @@ Python default name:
 sudo ln -sf /usr/bin/python3 /usr/bin/python
 ```
 
-⚠️ - **WSL2**
-   
-   
-- Install usbipd `powershell`
-
-`powershell` `admin`
-```
-winget install --interactive --exact dorssel.usbipd-win
-```
-```
-usbipd wsl list
-```
-```
-usbipd wsl attach --busid <busid>
-```
-`ubuntu`
-```
-lsusb
-```
-
 Requirements:
 
 ```
