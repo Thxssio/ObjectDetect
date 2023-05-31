@@ -2,7 +2,7 @@
 
 
 
-****Object Detect with OpenCv***
+***Object Detect with OpenCv***
 
 - [x] OpenCV
 - [x] Python 3.10
