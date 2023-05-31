@@ -34,6 +34,10 @@ pip install opencv-python
 pip install imutils
 ```
 
+```
+pip install face_recognition
+```
+
 Test
 
 ```
